@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/BottomBar/BottomBar.qml</file>
+        <file>ui/RightScreen/RightScreen.qml</file>
+        <file>ui/LeftScreen/LeftScreen.qml</file>
+        <file>ui/assets/CarRender.jpeg</file>
+        <file>ui/assets/ankaraMap.jpeg</file>
+        <file>ui/assets/carIcon.png</file>
+        <file>ui/assets/CarRender.jpg</file>
+        <file>ui/assets/lockIcon.png</file>
+        <file>ui/assets/unlockIcon.png</file>
+        <file>ui/assets/userIconpng</file>
+        <file>ui/RightScreen/NavigationSearchBox.qml</file>
+        <file>ui/assets/searchIcon.jpeg</file>
+        <file>ui/BottomBar/HVACComponents.qml</file>
+        <file>ui/assets/volumeIcon.png</file>
+        <file>ui/BottomBar/VolumeControlComponent.qml</file>
+        <file>ui/assets/muteIcon.png</file>
+        <file>ui/assets/muteIcon2.png</file>
+        <file>ui/BottomBar/CarRender.jpeg</file>
+        <file>Controllers/audiocontroller.cpp</file>
+        <file>Controllers/audiocontroller.h</file>
+        <file>Controllers/hvachandler.cpp</file>
+        <file>Controllers/hvachandler.h</file>
+        <file>Controllers/system.cpp</file>
+        <file>Controllers/system.h</file>
+        <file>CarProject.pro</file>
+        <file>main.cpp</file>
+        <file>qml.qrc</file>
+    </qresource>
+</RCC>
